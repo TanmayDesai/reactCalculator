@@ -67,11 +67,11 @@ button:hover{
   }
 
   .output{
-    height: 30vh;
+    height: 20vh;
   }
 
   button{
-    height: calc(70/4)vh;
+    height: 20vh;
     width: 25vw;
   }
 }
